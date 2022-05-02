@@ -8,4 +8,4 @@ int main() {
     area = pi * (raio * raio);
     printf("A=%.4f\n", area);
     return 0;
-}
+} 
